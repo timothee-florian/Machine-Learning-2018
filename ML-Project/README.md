@@ -46,5 +46,5 @@ of other models.
 ## Authors
 
 - Emile Bourban
-- Thimothée Bronner
+- TimothÃ©e Bronner
 - Florian Delberghe
